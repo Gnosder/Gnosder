@@ -10,7 +10,7 @@ My name is [Patrick Plaisted](https://bit.ly/2L3i39E), I'm a novice Back-end Dev
   
 
   - 🔭 I’m currently working on multiple things... at once... I don't have a problem... stop looking at me like that
-  - 🌱 I’m currently (re)learning Latin
+  - 🌱 I’m currently (re)learning Latin and learning React
   - 🤔 I’m looking for help learning to play guitar
   - 💬 Ask me about Roleplaying Games
   - 📫 How to reach me: patrick.plaisted@gmail.com or visit my [site](https://gnosder.github.io/)
