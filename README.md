@@ -13,7 +13,7 @@ My name is [Patrick Plaisted](https://bit.ly/2L3i39E), I'm a novice Back-end Dev
   - 🌱 I’m currently (re)learning Latin
   - 🤔 I’m looking for help learning to play guitar
   - 💬 Ask me about Roleplaying Games
-  - 📫 How to reach me: patrick.plaisted@gmail.com
+  - 📫 How to reach me: patrick.plaisted@gmail.com or visit my [site](https://gnosder.github.io/)
   - 📫 I'm currently reading [Thrawn](https://play.google.com/store/books/details?id=6OuvDAAAQBAJ&gl=us&hl=en-US&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKT-FDR-na-us-1000189-Med-pla-bk-Evergreen-Jul1520-PLA-eBooks_Fiction&gclid=CjwKCAiA9vOABhBfEiwATCi7GN6AX0XSOp-UHtc3hpChdT__jJ1x8mBaGyfHWoIMg5akD1xW9XVdWRoCnpwQAvD_BwE&gclsrc=aw.ds) by Timothy Zahn
   - 😄 Pronouns: he/him
   - ⚡ Fun fact: I've been a Gamemaster for over 20 years
